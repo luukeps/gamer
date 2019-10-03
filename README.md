@@ -1,2 +1,3 @@
-# gamer
-Hola... Esto es lo que he hecho en mi existencia
+# Gamer
+Hola... 
+Esto es lo que he hecho en mi existencia.
